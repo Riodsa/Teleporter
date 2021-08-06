@@ -1,33 +1,108 @@
 baseURL: 
 languageCode: en-us
-title: Google Meet Teleporter
+title: 4/2 Google Meet Teleporter
 theme: theme
 
 params:
+  author: Meetlink
+  description: eiei
+  favicon: /favicon.ico
+  
+  nav:
+    - name: source
+      icon: fab fa-github
+      url: https://github.com/Riodsa/Teleporter
+
   bookmarks:
-    - group: Google Meet
-      icon: fas fa-code-branch
+    # - group: meet 
+    #   items:
+    
+    #     - name: สุขศึกษาและพลศึกษา
+    #       url: https://meet.google.com/lookup/ea54nhym6g
+    
+    #     - name: IS
+    #       url: https://meet.google.com/lookup/gerfz23kwj?authuser=1&hs=179
+
+    #     - name: นาฏศิลป์       
+    #       url: https://meet.google.com/lookup/catwbhqt2y
+
+    #     - name: ภาษาอังกฤษพื้น
+    #       url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
+
+    #     - name: คณิต พื้น (สุนีย์)
+    #       url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
+
+    #     - name: คณิต เพิ่ม (มานพ)
+    #       url: https://meet.google.com/jjo-yazb-kgo
+    
+    #     - name: เคมี
+    #       url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
+    
+    #     - name: ฟิสิกส์
+    #       url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
+
+    #     - name: ประวัติ
+    #       url: https://meet.google.com/lookup/h23vvv2hhr
+
+    #     - name: การงาน
+    #       url: https://meet.google.com/lookup/cvw6allc7p?authuser=1&hs=179
+
+    #     - name: T.Moni
+    #       url: https://meet.google.com/lookup/hqmrd3im47
+    
+    #     - name: คอมพิวเตอร์
+    #       url: https://meet.google.com/lookup/gnal3i2rgs?authuser=1&hs=179
+          
+    - group: Monday
       items:
-        - name: สุขศึกษาและพลศึกษา
-          url: https://meet.google.com/lookup/ea54nhym6g
-        - name: IS
-          url: https://meet.google.com/lookup/gerfz23kwj?authuser=1&hs=179
-        - name: ภาษาอังกฤษพื้นฐาน
+        - name: ภาษาอังกฤษพื้น
           url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
+        - name: คณิต เพิ่ม (มานพ)
+          url: https://meet.google.com/jjo-yazb-kgo
+        - name: คอมพิวเตอร์
+          url: https://meet.google.com/lookup/gnal3i2rgs?authuser=1&hs=179
+    - group: Tuesday
+      items:
+        - name: คณิต พื้น (สุนีย์)
+          url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
+        - name: คณิต เพิ่ม (มานพ)
+          url: https://meet.google.com/jjo-yazb-kgo
+        - name: นาฏศิลป์       
+          url: https://meet.google.com/lookup/catwbhqt2y
         - name: T.Moni
           url: https://meet.google.com/lookup/hqmrd3im47
-        - name: คณิตศาสตร์พื้นฐาน(สุนีย์)
-          url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
-        - name: คณิตศาสตร์เพิ่ม(มานพ)
+        - name: IS
+          url: https://meet.google.com/lookup/gerfz23kwj?authuser=1&hs=179
+
+    - group: Wednesday
+      items:
+        - name: ประวัติ
+          url: https://meet.google.com/lookup/h23vvv2hhr
+        - name: ภาษาอังกฤษพื้น
+          url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
+        - name: คณิต เพิ่ม (มานพ)
           url: https://meet.google.com/jjo-yazb-kgo
         - name: เคมี
           url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
-        - name: ฟิสิกซ์
-          url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
-        - name: การงานอาชีพ
+
+    - group: Thursday
+      items:
+        - name: ภาษาอังกฤษพื้น
+          url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
+        - name: การงาน
           url: https://meet.google.com/lookup/cvw6allc7p?authuser=1&hs=179
-        - name: วิชาศิลปะ (นาฏศิลป์ 1)
-          url: https://meet.google.com/lookup/catwbhqt2y
-        - name: ประวัติศาสตร์
-          url: https://meet.google.com/lookup/h23vvv2hhr
-        
+        - name: คณิต เพิ่ม (มานพ)
+          url: https://meet.google.com/jjo-yazb-kgo
+        - name: ฟิสิกส์
+          url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
+
+    - group: Friday
+      items:   
+        - name: สุขศึกษาและพลศึกษา
+          url: https://meet.google.com/lookup/ea54nhym6g
+        - name: ฟิสิกส์
+          url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
+        - name: เคมี
+          url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
+        - name: คณิต พื้น (สุนีย์)
+          url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
