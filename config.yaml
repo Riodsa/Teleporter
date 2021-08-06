@@ -1,6 +1,6 @@
 baseURL: 
 languageCode: en-us
-title: GoogleMeetTeleporter
+title: 4/2Meet
 theme: theme
 
 params:
@@ -63,46 +63,46 @@ params:
           url: https://meet.google.com/lookup/gnal3i2rgs?authuser=1&hs=179
     - group: Tuesday
       items:
-        - name: คณิต พื้น (สุนีย์)
+        - name:คณิต พื้น (สุนีย์)
           url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
-        - name: คณิต เพิ่ม (มานพ)
+        - name:คณิต เพิ่ม (มานพ)
           url: https://meet.google.com/jjo-yazb-kgo
         - name: นาฏศิลป์       
           url: https://meet.google.com/lookup/catwbhqt2y
-        - name: T.Moni
+        - name:T.Moni
           url: https://meet.google.com/lookup/hqmrd3im47
-        - name: IS
+        - name:IS
           url: https://meet.google.com/lookup/gerfz23kwj?authuser=1&hs=179
 
     - group: Wednesday
       items:
-        - name: ประวัติ
+        - name:ประวัติ
           url: https://meet.google.com/lookup/h23vvv2hhr
-        - name: ภาษาอังกฤษพื้น
+        - name:ภาษาอังกฤษพื้น
           url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
-        - name: คณิต เพิ่ม (มานพ)
+        - name:คณิต เพิ่ม (มานพ)
           url: https://meet.google.com/jjo-yazb-kgo
-        - name: เคมี
+        - name:เคมี
           url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
 
     - group: Thursday
       items:
-        - name: ภาษาอังกฤษพื้น
+        - name:ภาษาอังกฤษพื้น
           url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
-        - name: การงาน
+        - name:การงาน
           url: https://meet.google.com/lookup/cvw6allc7p?authuser=1&hs=179
-        - name: คณิต เพิ่ม (มานพ)
+        - name:คณิต เพิ่ม (มานพ)
           url: https://meet.google.com/jjo-yazb-kgo
-        - name: ฟิสิกส์
+        - name:ฟิสิกส์
           url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
 
     - group: Friday
       items:   
-        - name: สุขศึกษาและพลศึกษา
+        - name:สุขศึกษาและพลศึกษา
           url: https://meet.google.com/lookup/ea54nhym6g
-        - name: ฟิสิกส์
+        - name:ฟิสิกส์
           url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
-        - name: เคมี
+        - name:เคมี
           url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
-        - name: คณิต พื้น (สุนีย์)
+        - name:คณิต พื้น (สุนีย์)
           url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
