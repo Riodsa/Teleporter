@@ -1,7 +1,7 @@
 baseURL: 
 languageCode: en-us
 title: GoogleMeetTeleporter
-theme: themes
+theme: theme
 
 params:
   author: Titan
