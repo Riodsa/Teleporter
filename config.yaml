@@ -54,7 +54,7 @@ params:
           
     - group: Monday
       items:
-        - name:English with nopparat
+        - name: English with Nopparat
           url: https://meet.google.com/wdh-zbty-cxq
         - name: คณิต เพิ่ม 
           url: https://meet.google.com/jjo-yazb-kgo
@@ -78,7 +78,7 @@ params:
       items:
         - name: History
           url: https://meet.google.com/lookup/h23vvv2hhr
-        - name: English with nopparat
+        - name: English with Nopparat
           url: https://meet.google.com/wdh-zbty-cxq
         - name: คณิต เพิ่ม
           url: https://meet.google.com/jjo-yazb-kgo
@@ -87,7 +87,7 @@ params:
 
     - group: Thursday
       items:
-        - name: English with nopparat
+        - name: English with Nopparat
           url: https://meet.google.com/wdh-zbty-cxq
         - name: การงาน
           url: https://meet.google.com/lookup/cvw6allc7p
