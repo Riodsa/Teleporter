@@ -1,15 +1,15 @@
 baseURL: 
 languageCode: en-us
 title: GoogleMeetTeleporter
-theme: theme
+theme: themes
 
 params:
-  author: Meetlink
+  author: Titan
   description: eiei
   favicon: /favicon.ico
   
   nav:
-    - name: source
+    - name: Riodsa
       icon: fab fa-github
       url: https://github.com/Riodsa/Teleporter
 
