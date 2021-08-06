@@ -16,54 +16,188 @@ params:
   bookmarks:
     # - group: meet 
     #   items:
-    #     - name: สุขศึกษาและพลศึกษา
-    #       url: https://meet.google.com/lookup/ea54nhym6g
-    
+    #     - name: ภาษาไทย
+    #       url: https://meet.google.com/hpc-gqtd-udi
+baseURL: 
+languageCode: en-us
+title: Made With Laziness
+theme: theme
+
+params:
+  author: Meetlink
+  description: naja
+  favicon: /favicon.ico
+  
+  nav:
+    - name: source
+      icon: fab fa-github
+      url: https://github.com/rich25487/Teleporter
+
+  bookmarks:
+    # - group: meet 
+    #   items:
+    #     - name: ภาษาไทย
+    #       url: https://meet.google.com/hpc-gqtd-udi
+
+
+    #     - name: Home Room
+    #       url: https://meet.google.com/lookup/h6eugwqpqt
+
     #     - name: IS
-    #       url: https://meet.google.com/gwv-jthh-yhh
+    #       url: https://meet.google.com/lookup/goov5v6opb
 
     #     - name: นาฏศิลป์       
-    #       url: https://meet.google.com/lookup/catwbhqt2y
+    #       url: https://meet.google.com/lookup/ccuyi3lifg
 
-    #     - name: ภาษาอังกฤษพื้น
-    #       url: https://meet.google.com/wdh-zbty-cxq
+    #     - name: การเขียน
+    #       url: https://meet.google.com/lookup/h2zlbqull6
 
-    #     - name: คณิต พื้น (สุนีย์)
-    #       url: https://meet.google.com/nwq-xqjg-taf
+    #     - name: English พื้น
+    #       url: https://meet.google.com/lookup/bp2etabm7e
 
-    #     - name: คณิต เพิ่ม (มานพ)
-    #       url: https://meet.google.com/jjo-yazb-kgo
-    
-    #     - name: เคมี
-    #       url: https://meet.google.com/lookup/dnznmgihzt
-    
-    #     - name: ฟิสิกส์
-    #       url: https://meet.google.com/aay-obgo-gwd
+    #     - name: คณิต พื้น
+    #       url: https://meet.google.com/lookup/ahftnt5sze
+
+    #     - name: วิทยาศาสตร์
+    #       url: https://meet.google.com/lookup/hoqr2kg3dk
+
+    #     - name: คณิต เพิ่ม
+    #       url: https://meet.google.com/lookup/gvuikwcovx
 
     #     - name: ประวัติ
-    #       url: https://meet.google.com/lookup/h23vvv2hhr
+    #       url: https://meet.google.com/lookup/bn2yqkuaaf
 
     #     - name: การงาน
-    #       url: https://meet.google.com/lookup/cvw6allc7p
+    #       url: https://meet.google.com/lookup/crx4jm6wn6
 
-    #     - name: T.Moni
-    #       url: https://meet.google.com/lookup/hqmrd3im47
+    #     - name: การออกแบบ
+    #       url: https://meet.google.com/lookup/h32dijoafk
+
+    #     - name: Amy's english
+    #       url: https://meet.google.com/tmm-xwpv-gpe 
+
+    #     - name: MoMo's english
+    #       url: https://meet.google.com/lookup/a2p737w626
+          
+    - group: Monday
+      items:
+        - name: วิทยาศาสตร์
+          url: https://meet.google.com/lookup/hoqr2kg3dk
+        - name: คณิต พื้น
+          url: https://meet.google.com/lookup/ahftnt5sze
+        - name: ประวัติ
+          url: https://meet.google.com/lookup/bn2yqkuaaf
+    - group: Tuesday
+      items:
+        - name: English พื้น
+          url: https://meet.google.com/lookup/bp2etabm7e
+        - name: การเขียน
+          url: https://meet.google.com/lookup/h2zlbqull6
+        - name: IS
+          url: https://meet.google.com/lookup/goov5v6opb 
+        - name: คณิต เพิ่ม
+          url: https://meet.google.com/lookup/gvuikwcovx
+        - name: ภาษาไทย
+          url: https://meet.google.com/hpc-gqtd-udi
+        - name: วิทยาศาสตร์
+          url: https://meet.google.com/lookup/hoqr2kg3dk
+
+    - group: Wednesday
+      items:
+        - name: การเขียน
+          url: https://meet.google.com/lookup/h2zlbqull6
+        - name: Amy's (unstable)
+          url: https://meet.google.com/lookup/duowbkoon2
+        - name: MoMo's english
+          url: https://meet.google.com/lookup/a2p737w626
+
+    - group: Thursday
+      items:
+        - name: การออกแบบ
+          url: https://meet.google.com/lookup/h32dijoafk
+        - name: การงาน
+          url: https://meet.google.com/lookup/crx4jm6wn6
+        - name: คณิต เพิ่ม
+          url: https://meet.google.com/lookup/gvuikwcovx
+
+    - group: Friday
+      items:   
+        - name: นาฏศิลป์       
+          url: https://meet.google.com/lookup/ccuyi3lifg
+        - name: คณิต เพิ่ม
+          url: https://meet.google.com/lookup/gvuikwcovx
+        - name: ภาษาไทย
+          url: https://meet.google.com/hpc-gqtd-udi
+        - name: คณิต พื้น
+          url: https://meet.google.com/lookup/ahftnt5sze
+        - name: Amy's (unstable)
+          url: https://meet.google.com/lookup/duowbkoon2 
+        - name: English พื้น
+          url: https://meet.google.com/lookup/bp2etabm7e
+    - group: 特別
+      items: 
+        - name: thai website
+          url: https://bit.ly/benjamasThai64
+        - name: Home Room
+          url: https://meet.google.com/lookup/h6eugwqpqt
+        - name: Don't Click me
+          url: https://bit.ly/2UPlMg7
+
+
     
-    #     - name: คอมพิวเตอร์
-    #       url: https://meet.google.com/lookup/gnal3i2rgs
+
+    
+    #     - name: Home Room
+    #       url: https://meet.google.com/lookup/h6eugwqpqt
+
+    #     - name: IS
+    #       url: https://meet.google.com/lookup/goov5v6opb
+
+    #     - name: นาฏศิลป์       
+    #       url: https://meet.google.com/lookup/ccuyi3lifg
+
+    #     - name: การเขียน
+    #       url: https://meet.google.com/lookup/h2zlbqull6
+
+    #     - name: English พื้น
+    #       url: https://meet.google.com/lookup/bp2etabm7e
+
+    #     - name: คณิต พื้น
+    #       url: https://meet.google.com/lookup/ahftnt5sze
+
+    #     - name: วิทยาศาสตร์
+    #       url: https://meet.google.com/lookup/hoqr2kg3dk
+
+    #     - name: คณิต เพิ่ม
+    #       url: https://meet.google.com/lookup/gvuikwcovx
+
+    #     - name: ประวัติ
+    #       url: https://meet.google.com/lookup/bn2yqkuaaf
+
+    #     - name: การงาน
+    #       url: https://meet.google.com/lookup/crx4jm6wn6
+
+    #     - name: การออกแบบ
+    #       url: https://meet.google.com/lookup/h32dijoafk
+
+    #     - name: Amy's english
+    #       url: https://meet.google.com/tmm-xwpv-gpe 
+
+    #     - name: MoMo's english
+    #       url: https://meet.google.com/lookup/a2p737w626
+          
     - group: Monday
       items:
         - name: ภาษาอังกฤษพื้น
-          url: https://meet.google.com/wdh-zbty-cxq
+          url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
         - name: คณิต เพิ่ม 
           url: https://meet.google.com/jjo-yazb-kgo
         - name: คอมพิวเตอร์
-          url: https://meet.google.com/lookup/gnal3i2rgs
-          
+          url: https://meet.google.com/lookup/gnal3i2rgs?authuser=1&hs=179
     - group: Tuesday
       items:
         - name:คณิต พื้น 
-          url: https://meet.google.com/nwq-xqjg-taf
+          url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
         - name:คณิต เพิ่ม 
           url: https://meet.google.com/jjo-yazb-kgo
         - name: นาฏศิลป์       
@@ -71,37 +205,37 @@ params:
         - name:T.Moni
           url: https://meet.google.com/lookup/hqmrd3im47
         - name:IS
-          url: https://meet.google.com/gwv-jthh-yhh
-          
+          url: https://meet.google.com/lookup/gerfz23kwj?authuser=1&hs=179
+
     - group: Wednesday
       items:
         - name:ประวัติ
           url: https://meet.google.com/lookup/h23vvv2hhr
         - name:ภาษาอังกฤษพื้น
-          url: https://meet.google.com/wdh-zbty-cxq
+          url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
         - name:คณิต เพิ่ม
           url: https://meet.google.com/jjo-yazb-kgo
         - name:เคมี
-          url: https://meet.google.com/lookup/dnznmgihzt
-          
+          url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
+
     - group: Thursday
       items:
         - name:ภาษาอังกฤษพื้น
-          url: https://meet.google.com/wdh-zbty-cxq
+          url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
         - name:การงาน
-          url: https://meet.google.com/lookup/cvw6allc7p
+          url: https://meet.google.com/lookup/cvw6allc7p?authuser=1&hs=179
         - name:คณิต เพิ่ม พูน
           url: https://meet.google.com/jjo-yazb-kgo
         - name:ฟิสิกส์
-          url: https://meet.google.com/aay-obgo-gwd
-          
+          url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
     - group: Friday
       items:   
         - name:สุขศึกษาและพลศึกษา
           url: https://meet.google.com/lookup/ea54nhym6g
         - name:ฟิสิกส์
-          url: https://meet.google.com/aay-obgo-gwd
+          url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
         - name:เคมี
-          url: https://meet.google.com/lookup/dnznmgihzt
+          url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
         - name:คณิต พื้น (สุนีย์)
-          url: https://meet.google.com/nwq-xqjg-taf
+          url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
+    
