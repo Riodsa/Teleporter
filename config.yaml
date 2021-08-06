@@ -63,8 +63,6 @@ params:
           url: https://meet.google.com/lookup/gnal3i2rgs?authuser=1&hs=179
     - group: Tuesday
       items:
-        - name:คณิต พื้น (สุนีย์)
-          url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
         - name:คณิต เพิ่ม (มานพ)
           url: https://meet.google.com/jjo-yazb-kgo
         - name: นาฏศิลป์       
