@@ -55,15 +55,15 @@ params:
       items:
         - name: ภาษาอังกฤษพื้น
           url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
-        - name: คณิต เพิ่ม (มานพ)
+        - name: คณิต เพิ่ม 
           url: https://meet.google.com/jjo-yazb-kgo
         - name: คอมพิวเตอร์
           url: https://meet.google.com/lookup/gnal3i2rgs?authuser=1&hs=179
     - group: Tuesday
       items:
-        - name:คณิต พื้น (สุนีย์)
+        - name:คณิต พื้น 
           url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
-        - name:คณิต เพิ่ม (มานพ)
+        - name:คณิต เพิ่ม 
           url: https://meet.google.com/jjo-yazb-kgo
         - name: นาฏศิลป์       
           url: https://meet.google.com/lookup/catwbhqt2y
@@ -78,7 +78,7 @@ params:
           url: https://meet.google.com/lookup/h23vvv2hhr
         - name:ภาษาอังกฤษพื้น
           url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
-        - name:คณิต เพิ่ม (มานพ)
+        - name:คณิต เพิ่ม
           url: https://meet.google.com/jjo-yazb-kgo
         - name:เคมี
           url: https://meet.google.com/lookup/dnznmgihzt?authuser=1&hs=179
@@ -88,7 +88,7 @@ params:
           url: https://meet.google.com/lookup/e475mvimbf?authuser=1&hs=179
         - name:การงาน
           url: https://meet.google.com/lookup/cvw6allc7p?authuser=1&hs=179
-        - name:คณิต เพิ่ม (มานพ)
+        - name:คณิต เพิ่ม พูน
           url: https://meet.google.com/jjo-yazb-kgo
         - name:ฟิสิกส์
           url: https://meet.google.com/lookup/hqlfubrkxx?authuser=1&hs=179
