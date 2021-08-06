@@ -59,19 +59,6 @@ params:
           url: https://meet.google.com/jjo-yazb-kgo
         - name: คอมพิวเตอร์
           url: https://meet.google.com/lookup/gnal3i2rgs?authuser=1&hs=179
-    - group: Tuesday
-      items:
-        - name:คณิต พื้น 
-          url: https://meet.google.com/lookup/g223dtr6k5?authuser=1&hs=179
-        - name:คณิต เพิ่ม 
-          url: https://meet.google.com/jjo-yazb-kgo
-        - name: นาฏศิลป์       
-          url: https://meet.google.com/lookup/catwbhqt2y
-        - name:T.Moni
-          url: https://meet.google.com/lookup/hqmrd3im47
-        - name:IS
-          url: https://meet.google.com/lookup/gerfz23kwj?authuser=1&hs=179
-
     - group: Wednesday
       items:
         - name:ประวัติ
