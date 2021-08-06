@@ -13,7 +13,7 @@ body {
   /* background-image: url(../images/bg.webp) no-repeat; */
   background-size: cover;
   content-visibility: auto;
-  font-size: 20px;
+  font-size: 16px;
   font-family: system-ui, sans-serif;
   font-weight: 400;
 }
