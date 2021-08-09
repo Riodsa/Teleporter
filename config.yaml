@@ -107,10 +107,12 @@ params:
         - name: คณิต พื้น
           url: https://meet.google.com/lookup/g223dtr6k5
           
-    - group: ส่งงาน
+    - group: อื่นๆ
       items:
-        - name: ภาษาไทย
+        - name: ส่งงานภาษาไทย
           url: https://sites.google.com/obec.moe.go.th/benjamasmee/42
+        - name: เช็คชื่อ(มานพ)
+          url: https://meet.google.com/gme-ncim-rqo
 
     
 
